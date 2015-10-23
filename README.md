@@ -1,9 +1,7 @@
-==================================================================
 Data set: Human Activity Recognition Using Smartphones - mean and standard deviation
 Version 1.0
-==================================================================
 prepared by Susan Sun
-==================================================================
+
 The raw data: Human Activity Recognition Using Smartphones data set from UCI repository. The original data set includes 28 .txt files. The details of the orignal data set can be found from CodeBook.md.  
 10 of the 28 files are used to produce the final tidy data. The 10 files are uploaded under UCI branch of this repo. 
 
