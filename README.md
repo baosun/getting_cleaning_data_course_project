@@ -18,6 +18,7 @@ The script is capable ot product same result after 10 times iteration.
 - Step 2: open run_analysis.R from RStudio. In row 5, setwd("D:/R/data/data/UCI/HAR"), modify the address to be the address of your own work directory.
 - Step 3: run the script.
 - Step 4: the final tidyData.txt file can be found in the root of your work directory
+- Step 5: use read.table("tidyData.txt", header = TRUE) to load the tidy data to R
 
 ##### Notes: 
 - Features are normalized and bounded within [-1,1].
